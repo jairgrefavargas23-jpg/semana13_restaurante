@@ -1,0 +1,34 @@
+[
+    {
+        "codigo": "B01",
+        "nombre": "Encebollado",
+        "precio": 3.5,
+        "categoria": "TIPICO",
+        "calorias": 350,
+        "stock": 8
+    },
+    {
+        "codigo": "B02",
+        "nombre": "Risotto de camaron",
+        "precio": 7.0,
+        "categoria": "GOURMET",
+        "calorias": 520,
+        "stock": 4
+    },
+    {
+        "codigo": "B03",
+        "nombre": "Nuggets con papas",
+        "precio": 3.0,
+        "categoria": "INFANTIL",
+        "calorias": 600,
+        "stock": 10
+    },
+    {
+        "codigo": "B04",
+        "nombre": "Gaseosa",
+        "precio": 1.0,
+        "categoria": "BEBIDA",
+        "calorias": 150,
+        "stock": 20
+    }
+]

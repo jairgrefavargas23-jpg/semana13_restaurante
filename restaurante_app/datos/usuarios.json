@@ -1,0 +1,16 @@
+[
+    {
+        "identificacion": "1512345678",
+        "nombre": "Bryan Grefa",
+        "turno": "TARDE",
+        "usuario": "bgrefa",
+        "contrasena": "fogon2026"
+    },
+    {
+        "identificacion": "1500000004",
+        "nombre": "Administrador",
+        "turno": "MANANA",
+        "usuario": "admin",
+        "contrasena": "admin987"
+    }
+]
